@@ -1,6 +1,6 @@
 {
-  "version": "1.3.3",
-  "download_url": "https://github.com/vfdelage78/PLEX360-Updates/releases/download/agent-v1.3.3/PLEX360-Agent-Windows-x64.msi",
-  "sha256": "3CD228207A1224EC00409F22CEC2DEF5C4C938A6367E8E9F2A234DD958172D0C",
-  "notes": "Ajout de l’icône PLEX360 dans la zone de notification Windows. Elle indique si le service est actif, permet de rouvrir la configuration et démarre automatiquement à la connexion Windows. L’agent transmet également son état à la page Santé."
+  "version": "1.3.4",
+  "download_url": "https://github.com/vfdelage78/PLEX360-Updates/releases/download/agent-v1.3.4/PLEX360-Agent-Windows-x64.msi",
+  "sha256": "400B487EB224AE759BCD93E5A8AF797971A57776370DB96D335666BCEE0FF3FB",
+  "notes": "Correction du lancement de l’icône PLEX360 : elle démarre maintenant immédiatement après l’installation, reste dans la zone de notification après fermeture de la fenêtre et redémarre automatiquement à la connexion Windows."
 }
