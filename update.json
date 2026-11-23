@@ -1,0 +1,6 @@
+{
+  "version": "1.3.2",
+  "download_url": "https://github.com/vfdelage78/PLEX360-Updates/releases/download/agent-v1.3.2/PLEX360-Agent-Windows-x64.msi",
+  "sha256": "641258ED21401FF86C57EB85FC3A237EB346DD5F4DEF6BB01C2FCA4EB055A4AC",
+  "notes": "Ajout de l’icône PLEX360 dans l’application, le raccourci Windows et Ajout/Suppression de programmes. Le numéro de version est maintenant affiché dans la fenêtre de configuration."
+}
